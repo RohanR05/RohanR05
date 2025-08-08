@@ -1,44 +1,81 @@
-# 👋 Hi, I'm Rohan Kabir!
+<!-- Banner Image -->
+<img src="https://your-banner-image-link.com/banner.png" alt="Banner" style="width:100%; border-radius:10px;" />
 
-🎓 I'm currently pursuing my **Bachelor of Business Administration (BBA)**  
-💻 Passionate **full-stack web developer** building impactful, real-world projects using modern technologies  
-🌱 Always learning and exploring new tools, frameworks, and business-tech solutions  
-🚀 Looking to collaborate, learn, and grow in the tech industry
+# 👨‍💻 Rohan Kabir — Full Stack Web Developer
 
----
-
-## 🛠️ My Tech Stack
-
-**Frontend**  
-React • Tailwind CSS • DaisyUI • Framer Motion • Axios • HTML • CSS • JavaScript
-
-**Backend & Database**  
-Node.js • Express.js • MongoDB • Firebase • JWT • Stripe
-
-**Other Tools**  
-TanStack Query • Git • GitHub • Netlify • Vercel • Postman
+🎓 BBA Student | 💻 MERN Stack Developer | 🌐 Passionate Coder  
 
 ---
 
-## 📌 Featured Projects
+## 📌 About Me
 
-### 🚚 [Courier Service Platform](https://zap-project-5e0b5.web.app)
-Multi-role (User, Rider, Admin) courier app with real-time parcel tracking, JWT & Firebase Auth, Stripe payment, and BD map coverage.
-
-### 🍲 [Food Donation Platform](https://your-food-donation-link.com)
-Connects restaurants with charities to reduce food waste. Admin-verified, Stripe-integrated, role-based access, built with MERN.
-
-### 📝 [Article Sharing Platform](https://assignment-11-49577.web.app)
-Write, edit, and share articles. Firebase login, JWT-secured backend, smooth React UI with Framer Motion and MongoDB data storage.
+Hi, I'm Rohan Kabir, a BBA student with a strong passion for building real-world web applications using the MERN stack.  
+I focus on solving problems through clean, scalable code and creating meaningful user experiences.  
+Currently combining my business knowledge with technical skills to build impactful solutions.  
+Open to collaborations, internships, and freelance opportunities!
 
 ---
 
-## 📫 Let's Connect!
+## 🚧 Current Activities
 
-- 📧 Email: **rohankabir061@gmail.com**   
-- 🐙 GitHub: [github.com/rohan-kabir](https://github.com/RohanR05)  
-- 💼 LinkedIn: [linkedin.com/in/rohan-kabir](https://www.linkedin.com/in/rohan-batman/)
+- 🔍 Exploring **Next.js**
+- 🏝️ Building a **Tourism Website** with dynamic routing & CMS
+- 🚀 Improving **deployment & CI/CD** skills
+- 🧩 Practicing advanced **React patterns** & **API integration**
 
 ---
 
-⭐ *Thanks for visiting! Feel free to check out my work, and let's build something great together!*
+## 🧠 Skills & Technologies
+
+### 💻 Frontend
+<p align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/DaisyUI-%23A855F7?logo=tailwind-css&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Framer--Motion-black?logo=framer&logoColor=white&style=flat-square" />
+</p>
+
+### 🛠️ Backend
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square" />
+</p>
+
+### ⚙️ Tools & Others
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?logo=stripe&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?logo=react-query&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=flat-square" />
+</p>
+
+---
+
+## 🌐 Let's Connect
+
+<p>
+  <a href="mailto:rohankabir.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square" /></a>
+  <a href="https://www.linkedin.com/in/rohan-kabir" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square" /></a>
+  <a href="https://github.com/rohan-kabir" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square" /></a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=rohan-kabir&show_icons=true&theme=default" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-kabir&layout=compact&theme=default" height="160px" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohan-kabir&theme=default" height="150px" />
+</p>
+
+---
+
+⭐ *Thanks for visiting my profile! I’m always up for exciting projects & collaborations.*
