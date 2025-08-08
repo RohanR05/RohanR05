@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <a href="https://ibb.co/Cp83XkR1">
-  <img src="https://i.ibb.co/Cp83XkR1/Grey-and-Black-Simple-Marketing-Linked-In-Banner.png" alt="Grey and Black Simple Marketing LinkedIn Banner" border="0" />
+  <img src="https://i.ibb.co/Cp83XkR1/Grey-and-Black-Simple-Marketing-Linked-In-Banner.png" alt="Grey and Black Simple Marketing LinkedIn Banner" border="0" width="400px" />
 </a>
 
 
