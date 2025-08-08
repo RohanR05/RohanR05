@@ -1,7 +1,9 @@
 <!-- Banner Image -->
 <a href="https://ibb.co/Cp83XkR1">
-  <img src="https://i.ibb.co/Cp83XkR1/Grey-and-Black-Simple-Marketing-Linked-In-Banner.png" alt="Banner" style="width: 100%; max-width: 100%;" />
+  <img src="https://i.ibb.co/Cp83XkR1/Grey-and-Black-Simple-Marketing-Linked-In-Banner.png" alt="Banner" 
+       style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
 </a>
+
 
 
 
