@@ -1,11 +1,10 @@
 <!-- Banner Image -->
-<a href="https://ibb.co/Cp83XkR1">
-  <img 
-    src="https://ibb.co.com/SDP7BRHt" 
-    alt="Banner" 
-    style="width: 70%; max-width: 800px; height: 200px; display: block; margin: 0 auto;" 
-  />
-</a>
+<img 
+  src="https://github.com/RohanR05/RohanR05/blob/e6499347e72dd7f42a075833fad9ab1a92311066/Grey%20and%20Black%20Simple%20Marketing%20LinkedIn%20Banner%20(1).png?raw=true" 
+  alt="Banner" 
+  style="width: 100%; max-width: 1200px; height: auto; max-height: 250px; display: block; margin: 0 auto;" 
+/>
+
 
 
 
