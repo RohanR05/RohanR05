@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-<img src="https://www.linkedin.com/in/rohan-batman/overlay/background-image/" alt="Banner" style="width:100%; border-radius:10px;" />
+<img src="<a href="https://ibb.co.com/Cp83XkR1"><img src="https://i.ibb.co.com/Cp83XkR1/Grey-and-Black-Simple-Marketing-Linked-In-Banner.png" alt="Grey-and-Black-Simple-Marketing-Linked-In-Banner" border="0"></a>" alt="Banner" style="width:100%; border-radius:10px;" />
 
 # 👨‍💻 Rohan Kabir — Full Stack Web Developer
 
