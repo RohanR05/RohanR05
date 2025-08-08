@@ -1,5 +1,8 @@
 <!-- Banner Image -->
-<img src="<a href="https://ibb.co.com/Cp83XkR1"><img src="https://i.ibb.co.com/Cp83XkR1/Grey-and-Black-Simple-Marketing-Linked-In-Banner.png" alt="Grey-and-Black-Simple-Marketing-Linked-In-Banner" border="0"></a>" alt="Banner" style="width:100%; border-radius:10px;" />
+<a href="https://ibb.co/Cp83XkR1">
+  <img src="https://i.ibb.co/Cp83XkR1/Grey-and-Black-Simple-Marketing-Linked-In-Banner.png" alt="Grey and Black Simple Marketing LinkedIn Banner" border="0" />
+</a>
+
 
 # 👨‍💻 Rohan Kabir — Full Stack Web Developer
 
