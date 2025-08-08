@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-<img src="https://your-banner-image-link.com/banner.png" alt="Banner" style="width:100%; border-radius:10px;" />
+<img src="https://ibb.co.com/Cp83XkR1" alt="Banner" style="width:100%; border-radius:10px;" />
 
 # 👨‍💻 Rohan Kabir — Full Stack Web Developer
 
