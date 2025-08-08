@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-<img src="https://www.facebook.com/photo/?fbid=740345108785734&set=a.100464382773813" alt="Banner" style="width:100%; border-radius:10px;" />
+<img src="https://www.linkedin.com/in/rohan-batman/overlay/background-image/" alt="Banner" style="width:100%; border-radius:10px;" />
 
 # 👨‍💻 Rohan Kabir — Full Stack Web Developer
 
