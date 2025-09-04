@@ -107,12 +107,12 @@ Open to collaborations, internships, and freelance opportunities!
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohan-kabir&show_icons=true&theme=default" height="160px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-kabir&layout=compact&theme=default" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RohanR05&show_icons=true&theme=default" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanR05&layout=compact&theme=default" height="160px" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohan-kabir&theme=default" height="150px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RohanR05&theme=default" height="150px" />
 </p>
 
 ---
