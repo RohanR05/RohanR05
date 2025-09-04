@@ -53,10 +53,14 @@ Open to collaborations, internships, and freelance opportunities!
 
 ### 💻 Frontend
 <p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square" />
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/DaisyUI-%23A855F7?logo=tailwind-css&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/Framer--Motion-black?logo=framer&logoColor=white&style=flat-square" />
+  
 </p>
 
 ### 🛠️ Backend
@@ -65,6 +69,7 @@ Open to collaborations, internships, and freelance opportunities!
   <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square" />
+  <img src="https://img.shields.io/badge/Stripe-626CD9?logo=stripe&logoColor=white&style=flat-square" />
 </p>
 
 ### ⚙️ Tools & Others
