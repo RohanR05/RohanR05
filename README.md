@@ -23,13 +23,13 @@ I focus on solving problems through clean, scalable code and creating meaningful
 Currently combining my business knowledge with technical skills to build impactful solutions.  
 Open to collaborations, internships, and freelance opportunities!
 <p>
-  <a href="mailto:rohankabir.dev@gmail.com">
+  <a href="mailto:rohankabir061@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square" />
   </a>
-  <a href="https://www.linkedin.com/in/rohan-kabir" target="_blank">
+  <a href="https://www.linkedin.com/in/rohan-batman/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square" />
   </a>
-  <a href="https://github.com/rohan-kabir" target="_blank">
+  <a href="https://github.com/RohanR05" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square" />
   </a>
   <a href="https://rohanbatman.netlify.app/" target="_blank">
@@ -87,13 +87,13 @@ Open to collaborations, internships, and freelance opportunities!
 ## 🌐 Let's Connect
 
 <p>
-  <a href="mailto:rohankabir.dev@gmail.com">
+  <a href="mailto:rohankabir061@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square" />
   </a>
-  <a href="https://www.linkedin.com/in/rohan-kabir" target="_blank">
+  <a href="https://www.linkedin.com/in/rohan-batman/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square" />
   </a>
-  <a href="https://github.com/rohan-kabir" target="_blank">
+  <a href="https://github.com/RohanR05" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square" />
   </a>
   <a href="https://rohanbatman.netlify.app/" target="_blank">
