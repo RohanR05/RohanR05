@@ -112,7 +112,7 @@ Open to collaborations, internships, and freelance opportunities!
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RohanR05&theme=default" height="150px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RohanR05&theme=default" height="160px" />
 </p>
 
 ---
